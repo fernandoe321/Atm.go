@@ -1,4 +1,4 @@
-# HackPSU2017-ATM-interface
+# HackPSU2017-ATM-Interface
 Hack PSU 2017 Capital One ATM Interface with facial recognition
 
 ## How we built it
